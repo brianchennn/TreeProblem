@@ -1,6 +1,6 @@
 import unittest
-from Trees.src.trees.bst_tree import BST
-from Trees.src.nodes.bst_node import BSTNode
+from ......Trees.src.trees.bst_tree import BST
+from ......Trees.src.nodes.bst_node import BSTNode
 
 
 class TestBST(unittest.TestCase):

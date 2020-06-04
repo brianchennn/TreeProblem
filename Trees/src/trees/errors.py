@@ -1,8 +1,8 @@
 
 class MissingValueError(Exception):
-    print(Exception)
+    #print("does not exist!\n")
     ...
 
 class EmptyTreeError(Exception):
-    #print("Empty tree!\n")
+    print("Empty tree!\n")
     ...
